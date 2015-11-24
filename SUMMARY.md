@@ -6,4 +6,5 @@
 * [Typing Skills](typing_skills.md)
 * [First Website Project](first_website_project.md)
 * [Intro to JavaScript](intro_to_javascript.md)
+* Free Code Camp
 
