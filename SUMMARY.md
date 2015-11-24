@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Interview](interview.md)
-* Study at HQ
+* [Study at HQ](study_at_hq.md)
 
